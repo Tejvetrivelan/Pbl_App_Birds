@@ -1,0 +1,62 @@
+/* Styles for the body element */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Styles for the header element */
+  h1 {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  /* Styles for the main content */
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 20px;
+  }
+  
+  /* Styles for the divisions */
+  .division-1, .division-2, .division-3 {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .division-1 h2 {
+    color: #f00;
+  }
+  
+  .division-2 h2 {
+    color: #0f0;
+  }
+  
+  .division-3 h2 {
+    color: #00f;
+  }
+  
+  /* Styles for the footer element */
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    margin: 0;
+  }
+  #box1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 260px;
+    height: 260px;
+    background-color:aquamarine;
+    padding: 20px;
+    display: none;
+
+  }
